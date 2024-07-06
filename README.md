@@ -1,4 +1,4 @@
-- Hi, I'm Rebel Cat, you can call me Rebel.
+- Hi, I'm Rebel Cat, but you can call me Rebel.
 
 <!---
 RebelCat12/RebelCat12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
