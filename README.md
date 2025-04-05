@@ -1,6 +1,2 @@
-- Hi, I'm Rebel Cat, but you can call me Rebel.
-
-<!---
-RebelCat12/RebelCat12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi, the name's Rebel Cat. Welcome to the dumpster fire I call a github profile.
+I'm currently learning web development, although you can see that I've experimented with a lot of different stuff. This time I'm sticking to one thing, it's way too easy to get distracted and pulled into a completely different side of software development.
